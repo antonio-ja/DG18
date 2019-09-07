@@ -1,0 +1,2 @@
+# DG18
+parsiranje
